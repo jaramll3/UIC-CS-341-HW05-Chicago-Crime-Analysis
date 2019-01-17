@@ -1,0 +1,20 @@
+C:\Users\Mari\Downloads\School\2016 Fall\CS 341\HW 05\ChicagoCrime\FSLib\bin\Debug\FSLib.XML
+C:\Users\Mari\Downloads\School\2016 Fall\CS 341\HW 05\ChicagoCrime\FSLib\bin\Debug\FSLib.dll
+C:\Users\Mari\Downloads\School\2016 Fall\CS 341\HW 05\ChicagoCrime\FSLib\bin\Debug\FSLib.pdb
+C:\Users\Mari\Downloads\School\2016 Fall\CS 341\HW 05\ChicagoCrime\FSLib\bin\Debug\FSharp.Charting.dll
+C:\Users\Mari\Downloads\School\2016 Fall\CS 341\HW 05\ChicagoCrime\FSLib\bin\Debug\FSharp.Core.dll
+C:\Users\Mari\Downloads\School\2016 Fall\CS 341\HW 05\ChicagoCrime\FSLib\bin\Debug\FSharp.Charting.pdb
+C:\Users\Mari\Downloads\School\2016 Fall\CS 341\HW 05\ChicagoCrime\FSLib\bin\Debug\FSharp.Charting.xml
+C:\Users\Mari\Downloads\School\2016 Fall\CS 341\HW 05\ChicagoCrime\FSLib\bin\Debug\FSharp.Core.xml
+C:\Users\Mari\Downloads\School\2016 Fall\CS 341\HW 05\ChicagoCrime\FSLib\obj\Debug\FSLib.dll
+C:\Users\Mari\Downloads\School\2016 Fall\CS 341\HW 05\ChicagoCrime\FSLib\obj\Debug\FSLib.pdb
+C:\Users\mjara\Desktop\New folder\FSLib\bin\Debug\FSLib.XML
+C:\Users\mjara\Desktop\New folder\FSLib\bin\Debug\FSLib.dll
+C:\Users\mjara\Desktop\New folder\FSLib\bin\Debug\FSLib.pdb
+C:\Users\mjara\Desktop\New folder\FSLib\bin\Debug\FSharp.Charting.dll
+C:\Users\mjara\Desktop\New folder\FSLib\bin\Debug\FSharp.Core.dll
+C:\Users\mjara\Desktop\New folder\FSLib\bin\Debug\FSharp.Charting.pdb
+C:\Users\mjara\Desktop\New folder\FSLib\bin\Debug\FSharp.Charting.xml
+C:\Users\mjara\Desktop\New folder\FSLib\bin\Debug\FSharp.Core.xml
+C:\Users\mjara\Desktop\New folder\FSLib\obj\Debug\FSLib.dll
+C:\Users\mjara\Desktop\New folder\FSLib\obj\Debug\FSLib.pdb
